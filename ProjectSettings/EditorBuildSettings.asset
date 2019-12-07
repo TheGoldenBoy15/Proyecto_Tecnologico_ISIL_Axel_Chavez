@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Materias.unity
+    guid: 6767075a2310c8a4fb8003ea43ff5cc6
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel1_number0.unity
+    guid: 4112b06055353084e9239e39f4b7fb4f
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel1_number1.unity
+    guid: 23f1d1a9bbd2e6d458d1b1bfe3838982
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel1_number2.unity
+    guid: b5405e9d3d28f7447a3208971d345aba
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel1_number3.unity
+    guid: 71e87954ce38ff74bbb6a2b2977f34c8
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel1_number4.unity
+    guid: 6b2bab742cc541146b2087485cd3b531
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel1_number5.unity
+    guid: 158e306875acddd42b2bedd2d90ce517
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel1_number6.unity
+    guid: b7ed4132d4c6e5d4080d4a2d68da5f80
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel1_number7.unity
+    guid: 7081982f6919c164194e8c3b6cefe5c6
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel1_number8.unity
+    guid: 7e1e6ca87037b484eae375bab28d9635
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel1_number9.unity
+    guid: e4eb12426e21d7543bd5c2512f9601eb
+  - enabled: 1
+    path: Assets/Scenes/Math_Grade1_nivel2_quiz1.unity
+    guid: 10ef3a2b4ed0f914dbd9a0a15471f565
+  - enabled: 1
+    path: Assets/Scenes/Contadores.unity
+    guid: bf3ea60d0d329fb419f71458a8a10440
+  - enabled: 1
+    path: Assets/Scenes/GameScene_DragDrop.unity
+    guid: f2c65fc1590684744be909105b931335
+  m_configObjects: {}
